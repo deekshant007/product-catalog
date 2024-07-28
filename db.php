@@ -1,8 +1,8 @@
 <?php
-$servername = "sqlXXX.epizy.com";
-$username = "your_db_username";
-$password = "your_db_password";
-$dbname = "your_db_name";
+$servername = "sql306.infinityfree.com";
+$username = "username";
+$password = "password";
+$dbname = "db_name";
 
 $conn = new mysqli($servername, $username, $password, $dbname);
 
